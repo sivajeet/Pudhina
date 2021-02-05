@@ -9,6 +9,6 @@ sitemap:
 <img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>When your curiosity has already brought you to my place , why not explore a bit!</p>
-	<p>Fork and use the theme from the <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<p>When your curiosity has already brought you to my place, why not explore a bit!</p>
+	<p>Are u someone who can help me with a job ? You might find my <strong> <a href="https://sivajeet.github.io/Pudhina/resume"> resume</a> </strong>appealing. Are you a friend? Dare you leave my place without reading my <strong> <a href="https://sivajeet.github.io/Pudhina/blog"> blogs!</a> </strong></p>
 </div>
