@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello
-subtitle: My name is Pudhina
+title: Hey there, I'm Sivajeet Chand.
+subtitle: Nice to meet ya!
 sitemap:
   priority: 0.9
 ---
